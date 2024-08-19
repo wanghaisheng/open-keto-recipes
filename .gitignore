@@ -1,0 +1,29 @@
+# Module scripts
+*.mjs
+
+# Prettier configuration
+.prettierrc
+
+# Build output
+dist/
+
+# Generated types
+.astro/
+.vscode
+.idea
+
+# Dependencies
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Environment variables
+.env
+.env.production
+
+# macOS-specific files
+.DS_Store
