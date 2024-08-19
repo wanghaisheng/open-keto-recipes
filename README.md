@@ -21,6 +21,10 @@ We encourage everyone to share their recipes and tips! Here's how:
 2. Follow the simple format to ensure consistency across our collection.
 3. Submit a pull request with your recipe for the community to enjoy!
 
+
+![image](https://github.com/user-attachments/assets/b1b48dbc-fd5e-4a26-bec6-0abc39be8d64)
+
+
 ## License
 
 OpenStove is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
